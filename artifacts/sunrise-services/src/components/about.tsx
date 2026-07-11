@@ -62,7 +62,7 @@ export function About() {
                   <h4 className="font-bold text-secondary mb-1">Our Headquarters</h4>
                   <p className="text-gray-600 text-sm">
                     D-35, 1st Floor, Office No-102, <br/>
-                    Near Pillar No 33, Laxmi Nagar, Delhi
+                    Near Pillar No 33, Laxmi Nagar, Delhi – 110092
                   </p>
                 </div>
               </div>

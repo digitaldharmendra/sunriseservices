@@ -43,12 +43,23 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="text-white font-serif font-bold text-lg mb-6">Legal</h4>
+            <h4 className="text-white font-serif font-bold text-lg mb-6">Contact</h4>
             <ul className="space-y-3">
-              <li><a href="#" className="hover:text-white transition-colors inline-block">Privacy Policy</a></li>
-              <li><a href="#" className="hover:text-white transition-colors inline-block">Terms of Service</a></li>
-              <li><a href="#" className="hover:text-white transition-colors inline-block">Trust Deed Info</a></li>
-              <li><a href="#" className="hover:text-white transition-colors inline-block">Donation Policy</a></li>
+              <li>
+                <a href="tel:+919310811949" className="hover:text-primary transition-colors inline-block">
+                  +91 93108 11949
+                </a>
+              </li>
+              <li>
+                <a href="mailto:sunriseservices0001@gmail.com" className="hover:text-primary transition-colors inline-block break-all">
+                  sunriseservices0001@gmail.com
+                </a>
+              </li>
+              <li className="text-gray-400 leading-relaxed text-sm">
+                D-35, 1st Floor, Office No-102,<br />
+                Near Pillar No 33, Laxmi Nagar,<br />
+                Delhi – 110092, India
+              </li>
             </ul>
           </div>
 
