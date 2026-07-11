@@ -1,9 +1,9 @@
 import React from 'react';
 import { FadeIn, StaggerContainer, StaggerItem } from './fade-in';
-import img1 from '@assets/image_1_1783770274644.jpeg';
-import img2 from '@assets/image2_1783770274645.jpeg';
-import img3 from '@assets/image3_1783770274646.jpeg';
-import img4 from '@assets/image4_1783770274647.jpeg';
+import img1 from '@/assets/team1.jpeg';
+import img2 from '@/assets/team2.jpeg';
+import img3 from '@/assets/team3.jpeg';
+import img4 from '@/assets/team4.jpeg';
 
 export function Gallery() {
   const images = [

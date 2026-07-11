@@ -1,7 +1,7 @@
 import React from 'react';
 import { FadeIn } from './fade-in';
-import teamBannerImg from '@assets/image_1_1783770274644.jpeg';
-import inaugurationImg from '@assets/image2_1783770274645.jpeg';
+import teamBannerImg from '@/assets/team1.jpeg';
+import inaugurationImg from '@/assets/team2.jpeg';
 import { MapPin } from 'lucide-react';
 
 export function About() {

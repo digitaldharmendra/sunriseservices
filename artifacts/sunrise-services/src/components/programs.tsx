@@ -1,8 +1,8 @@
 import React from 'react';
 import { FadeIn } from './fade-in';
 import { ArrowRight } from 'lucide-react';
-import photoInauguration from '@assets/image2_1783770274645.jpeg';
-import photoTeamDoor from '@assets/image4_1783770274647.jpeg';
+import photoInauguration from '@/assets/team2.jpeg';
+import photoTeamDoor from '@/assets/team4.jpeg';
 
 export function Programs() {
   return (

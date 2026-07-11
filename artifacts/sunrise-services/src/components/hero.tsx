@@ -1,7 +1,7 @@
 import React from 'react';
 import { FadeIn } from './fade-in';
 import { ArrowRight, HeartHandshake } from 'lucide-react';
-import teamImg from '@assets/image_1_1783770274644.jpeg';
+import teamImg from '@/assets/team1.jpeg';
 
 export function Hero() {
   return (

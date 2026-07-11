@@ -1,7 +1,7 @@
 import React from 'react';
 import { FadeIn } from './fade-in';
-import foundersImg from '@assets/image3_1783770274646.jpeg';
-import fullTeamImg from '@assets/image4_1783770274647.jpeg';
+import foundersImg from '@/assets/team3.jpeg';
+import fullTeamImg from '@/assets/team4.jpeg';
 
 export function Team() {
   return (
