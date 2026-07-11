@@ -2,6 +2,9 @@
 
 # compiled output
 dist
+# Exception: pre-built sunrise-services static site for Hostinger hosting
+!artifacts/sunrise-services/dist/
+!artifacts/sunrise-services/dist/**
 tmp
 out-tsc
 *.tsbuildinfo
